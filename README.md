@@ -67,7 +67,6 @@ Missile-Command-Game/
 * **C# (MonoBehaviour scripts)**
 * **TextMesh Pro**
 * **Unity Input System**
-* **Universal Render Pipeline (URP)**
 
 ---
 
